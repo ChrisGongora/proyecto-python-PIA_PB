@@ -19,7 +19,7 @@ Asteroids - NeoWs
 
 ## Gráficas generadas 
 Gráfica 1: La primera muestra los objetos detectados por día. En el eje X se encuentran las fechas y en el eje Y se encuentra la cantidad de asteroides detectados
-Gráfica 3: En la segunda se muestra en metros el promedio de los diámetros máximos estimados de los asteroides detectados por día. En el eje X se encuentran las fechas y en el eje Y se encuentra el promedio de diámetros de los asteroides detectados
+Gráfica 2: En la segunda se muestra en metros el promedio de los diámetros máximos estimados de los asteroides detectados por día. En el eje X se encuentran las fechas y en el eje Y se encuentra el promedio de diámetros de los asteroides detectados
 Gráfica 3: En la tercera se muestra en unidades astronómicas el promedio de las distancias a la que pasaron los asteroides detectados por día. En el eje X se encuentran las fechas y en el eje Y se encuentra el promedio de distancia de los asteroides detectados
 
 
